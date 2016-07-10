@@ -1,0 +1,14 @@
+body{
+	background-color:#FFDDD6;
+}
+.DraftEditor-root{
+	padding: 2em;
+	padding-top: 4em;
+	height:auto;
+	min-height: 100vh;
+	max-width: 1080px;
+	width:75%;
+	background-color:white;
+	margin: 0 auto;	
+  	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
